@@ -1,0 +1,1 @@
+The robot is a human assissted robot for collecting garbage and dumping in its can attached. The robot was created as an effort for Swachh Bharat Abhyan.
